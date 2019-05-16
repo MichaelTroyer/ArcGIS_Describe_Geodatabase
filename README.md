@@ -1,4 +1,4 @@
-# ArcGIS_Describe_Geodatabase
+# ArcGIS Describe Geodatabase
 Python toolbox for describing the structure of an ArcGIS geodatabase
 
 ## Purpose: Write geodatabase strucutural details to file.
