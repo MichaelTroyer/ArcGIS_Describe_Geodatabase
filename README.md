@@ -15,7 +15,7 @@ Python toolbox for describing the structure of an ArcGIS geodatabase
         *editable
         *isNullable
         *required
-        *unique records
+        *unique record count
         
     Will create a unique csv for each domain
     
