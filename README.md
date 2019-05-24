@@ -1,7 +1,7 @@
 # ArcGIS Describe Geodatabase
 Python toolbox for describing the structure of an ArcGIS geodatabase
 
-## Purpose: Write geodatabase strucutural details to file.
+## Purpose: Write geodatabase structural details to file.
 
     Will create a unique .csv table for each table or feature class in a database detailing for each field:
         *name
